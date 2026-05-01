@@ -21,20 +21,20 @@
 
 ## 👋 About Me
 
-Tech enthusiast who loves building sleek, interactive web experiences pushing the boundary between design + engineering to craft user-friendly products.  
-I build **scalable full-stack apps**, ship features fast, and care deeply about **performance, clean UI, and maintainable architecture**.
-
+I'm a full-stack engineer specializing in **Next.js**, **Node.js**, and **TypeScript** — focused on building scalable products that balance clean architecture with fast delivery.
+Over the past 3+ years I've shipped production apps across legal tech, e-commerce, fintech, and restaurant management — working remotely for UK-based companies. I care deeply about **SLA-grade reliability**, **maintainable codebases**, and **UX that doesn't get in the way**.
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Shadcn/UI, Bootstrap  
-**Backend:** Node.js, Express.js, Socket.IO  
-**Databases:** MongoDB, MySQL ,Supabase                            
+**Frontend:** React.js, Next.js,Redux, React Native, TypeScript, Tailwind CSS, Shadcn/UI, Bootstrap ,Material UI ,Framer Motion
+**Backend:** Node.js, Express.js, Socket.IO ,AWS REST API
+**Databases:** MongoDB, MySQL ,Supabase ,Firebase                           
 **Auth:** Firebase Auth, NextAuth.js, JWT  
-**Cloud / Hosting:** DigitalOcean, Vercel, Render, Railway, Firebase Storage  
+**Cloud / Hosting:** DigitalOcean, Vercel, Render, Railway, Firebase  
 **Payments:** Stripe, PayPal, SSLCOMMERZ  
-**Automation & AI:** OpenAI API, n8n (AI workflows)  
+**Automation & AI:** OpenAI API, Claude API, n8n 
+**Tools & DevOps:** Git, GitHub Actions, Postman, CI/CD
 **Design:** Figma
 
 ---
