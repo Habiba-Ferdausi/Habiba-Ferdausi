@@ -21,13 +21,15 @@
 
 ## 👋 About Me
 
-I'm a full-stack engineer specializing in **Next.js**, **Node.js**, and **TypeScript** — focused on building scalable products that balance clean architecture with fast delivery.
-Over the past 3+ years I've shipped production apps across legal tech, e-commerce, fintech, and restaurant management — working remotely for UK-based companies. I care deeply about **SLA-grade reliability**, **maintainable codebases**, and **UX that doesn't get in the way**.
+I'm a full-stack engineer specializing in **Next.js**, **Node.js**, and **TypeScript**  focused on building scalable products that balance clean architecture with fast delivery.
+
+Over the past 3+ years I've shipped production apps across legal tech, e-commerce, fintech, and restaurant management  working remotely for UK-based companies. I care deeply about **SLA-grade reliability**, **maintainable codebases**, and **UX that doesn't get in the way**.
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend:** React.js, Next.js,Redux, React Native, TypeScript, Tailwind CSS, Shadcn/UI, Bootstrap ,Material UI ,Framer Motion
+
 **Backend:** Node.js, Express.js, Socket.IO ,AWS REST API
 **Databases:** MongoDB, MySQL ,Supabase ,Firebase                           
 **Auth:** Firebase Auth, NextAuth.js, JWT  
