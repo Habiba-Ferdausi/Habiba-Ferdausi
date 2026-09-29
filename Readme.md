@@ -59,15 +59,9 @@ Over the past 3+ years I've shipped production apps across legal tech, e-commerc
 
 ---
 
-## 📫 Contact
 
-- Email: **habibaferdausiritu@gmail.com**
-- GitHub: **github.com/Habibaferdausi**
-- Portfolio: `https://habiba-ferdausi.vercel.app`
-
----
 
 
 <p align="center">
-  © 2026 Habiba Ferdausi Ritu • Built with passion for coding & design
+  © 2026 Habiba Ferdausi Ritu • 
 </p>
