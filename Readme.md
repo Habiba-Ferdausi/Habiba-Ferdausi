@@ -3,11 +3,7 @@
 <h1 align="center">Habiba Ferdausi Ritu</h1>
 <h3 align="center">Software Engineer • React • Next.js • Node.js</h3>
 
-<p align="center">
-  <a href="mailto:habibaferdausiritu@gmail.com">habibaferdausiritu@gmail.com</a> •
-  <a href="https://github.com/Habibaferdausi">GitHub</a> •
-  <a href="https://habiba-ferdausi.vercel.app">Portfolio</a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-blue" />
