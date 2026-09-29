@@ -1,7 +1,5 @@
 <!-- GitHub Profile README — Habiba Ferdausi Ritu -->
-<p align="center">
-  <img src="https://habiba-ferdausi.vercel.app/cover.png" alt="Habiba Ferdausi Ritu - Cover" />
-</p>
+
 <h1 align="center">Habiba Ferdausi Ritu</h1>
 <h3 align="center">Software Engineer • React • Next.js • Node.js</h3>
 
